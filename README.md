@@ -1,0 +1,1 @@
+This project is a simple HTML-based product catalog displaying information about various products. The catalog includes sections for Electronics, Clothing, and Home items. Each section contains product descriptions, prices, availability, images, and additional details with links to purchase the products.
